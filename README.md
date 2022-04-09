@@ -18,7 +18,7 @@ From the 15 schools in the district, the students are passing reading at about 1
 Charter schools have a higher percent overall passing rate than district schools. District school students low percent of passing math shows that more investment in math improvement is encouraged. 
 
 
-###District Summary
+### District Summary
 
 The District Summary provides a high-level overview, in a DataFrame, of the district's key metrics. You will find the following metrics and interpreted trends below:
 
