@@ -15,7 +15,7 @@ First task is to analyze the district-wide standardized test results for math an
 From the 15 schools in the district, the students are passing reading at about 10% higher percentange rate than math. The latter likely note that kids would benefit from math assistance, or the school invest in opportunities that would improve math scores overall. 
 
 ### Trend #2: 
-The data shows that spending per student has an inverse correlation to percent overall passing. Despite increased spending per student, the latter does not guarantee a better percent overall passing rate.
+Charter schools have a higher percent overall passing rate than district schools. District school students low percent of passing math shows that more investment in math improvement is encouraged. 
 
 
 ###District Summary
@@ -84,4 +84,24 @@ The bottom five performing schools was created using a DataFrame, as well. The t
 
 ![Bottom 5 Performing Schools](./Images/Bottom_Performing_School.png)
 
+## Math and Reading Scores by Grade
+
+Did I say DataFrame, again? Yes, yes, and yes! For the following tables, a DataFrame was created to show the average math and reading score for students in grade ninth, tenth, eleventh, and twelfth grade at each school. See results below.
+
+![Math Scores by Grade](./Images/Math_Scores_by_Grade.png)
+![Reading Scores by Grade](./Images/Reading_Scores_by_Grade.png)
+
+## Scores by School Spending, Size, and Type
+
+Scores by school spending, size, and type are three separate table that breaks down school performance based on average spending ranges per student (budget bins), size of schools (small, medium, and large bins), and type of school (district or charter bins). Bin were created to highlight the latter. All tables included the follow:
+
+* Average math score
+* Average reading score
+* % passing math (the percentage of students who passed math)
+* % passing reading (the percentage of students who passed reading)
+* % overall passing (the percentage of students who passed math AND reading
+
+![Scores by School Spending](./Images/Scores_by_School%20Spending.png)
+![Scores by School Size](./Images/Scores_by_School%20Size.png)
+![Scores by School Type](./Images/Scores_by_School_Type.png)
 
