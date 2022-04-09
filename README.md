@@ -21,7 +21,7 @@ The District Summary provides a high-level overview, in a DataFrame, of the dist
 * % Passing Reading
 * % Overall Passing
 
-! [District Summary Table]()
+![District Summary Table](./Images/District_Summary.png)
 
 Trend #1: From the 15 schools in the district, the students are passing reading at about 10% higher percentange rate than math. The latter likely note that kids would benefit from math assistance, or school invest in opportunities that would improve math scores overall. 
 
