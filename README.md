@@ -1,4 +1,4 @@
-# Pandas, Pandas, Pandas
+# <font color="red">Pandas, Pandas, Pandas!</font>
 
 ## PyCity School
 
@@ -10,7 +10,7 @@ First task is to analyze the district-wide standardized test results for math an
 
 ### District Summary
 
-The District Summary provides a high-level overview, in a DataFrame, of the district's key metrics. You will find the following metrics and trends:
+The District Summary provides a high-level overview, in a DataFrame, of the district's key metrics. You will find the following metrics and interpreted trends below:
 
 * Total Schools
 * Total Students
