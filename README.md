@@ -1,4 +1,4 @@
-# <font color="red">Pandas</font>, Pandas, Pandas!
+# <p style="color:red">Pandas, Pandas, Pandas!</p>
 
 ## PyCity School
 
