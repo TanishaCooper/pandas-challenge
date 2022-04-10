@@ -20,7 +20,7 @@ Charter schools have a higher percent overall passing rate than district schools
 
 ### District Summary
 
-The District Summary provides a high-level overview, in a DataFrame, of the district's key metrics. You will find the following metrics and interpreted trends below:
+The District Summary provides a high-level overview, in a DataFrame, of the district's key metrics. You will find the following metrics:
 
 * Total Schools
 * Total Students
